@@ -1,3 +1,13 @@
+### Fork of GooFit used for development during my masters thesis
+
+The plan is to clean this up a little in the future and extend the documentation.
+Nevertheless this is the place where one can find the state of GooFit at the end of my thesis. 
+Further improvement and fixes won't be propagated back into this branch.
+
+____________________________________________________________________
+
+
+
 GooFit is a massively-parallel framework, written in CUDA, for
 doing maximum-likelihood fits.   It is also possible to build
 GooFit using OpenMP.
